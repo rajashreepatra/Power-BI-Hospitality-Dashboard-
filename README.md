@@ -3,7 +3,7 @@
 <img src = "https://github.com/rajashreepatra/Power-BI-Hospitality-Dashboard-/blob/60204d00a174d094205e3a74e8bd46bad520690a/Screenshot%202024-08-02%20112750.png" width ="2000">
 
 **Goal:**
-The objective of this project was to analyze and visualize the last three months of booking details for a hotel chain operating in various cities. The goal was to derive actionable insights and present them through a Power BI dashboard, enabling stakeholders to make data-driven decisions to improve hotel performance and customer satisfaction.
+The objective of this project was to analyze and visualize the last three months of booking details for a hotel chain operating in various cities to find the reason for decrease in their bookings. The goal was to derive actionable insights and present them through a Power BI dashboard, enabling stakeholders to make data-driven decisions to improve hotel performance and customer satisfaction.
 
 **Steps Undertaken:**
 
